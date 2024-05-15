@@ -1,2 +1,2 @@
 # Shop
-Internet shop
+online store
